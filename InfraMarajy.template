@@ -1,0 +1,99 @@
+{
+    "AWSTemplateFormatVersion": "2010-09-09",
+    "Metadata": {
+        "AWS::CloudFormation::Designer": {
+            "8ac3ea55-2c58-48dd-ac47-0604c55080e7": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 350,
+                    "y": 70
+                },
+                "z": 0,
+                "embeds": []
+            },
+            "0ac8552b-b7f2-4bd9-96e4-a7113a705f05": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 210,
+                    "y": 70
+                },
+                "z": 0
+            }
+        }
+    },
+    "Resources": {
+        "Marajy": {
+            "Type": "AWS::S3::Bucket",
+            "Properties": {
+                "AccessControl": "PublicRead",
+                "BucketName": "marajys3"
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "8ac3ea55-2c58-48dd-ac47-0604c55080e7"
+                }
+            }
+        },
+        "MarajyEC2": {
+            "Type": "AWS::EC2::Instance",
+            "Properties": {
+                "AvailabilityZone":"us-east-2a",
+                "ImageId": "ami-04328208f4f0cf1fe",
+                "InstanceType":"t2.micro",
+                "KeyName":"AWSKarimKey",
+                "NetworkInterfaces": [ {
+                    "AssociatePublicIpAddress": "true",
+                    "SubnetId": {"Ref": "MarajySubnet"}, 
+                    "DeviceIndex": "0",
+                    "GroupSet" : [ { "Ref" : "MarajySecurityGroup" } ]
+                } ]
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "0ac8552b-b7f2-4bd9-96e4-a7113a705f05"
+                }
+            }
+         },
+        "MarajyVPC": {
+            "Description": "ID of your existing VPC for deployment",
+            "Type": "AWS::EC2::VPC",
+            "Properties" : {
+                "CidrBlock": "172.30.0.0/16"
+            }
+         },
+         "MarajySubnet": {
+            "Type": "AWS::EC2::Subnet",
+            "Properties": {
+                  "VpcId": {
+                       "Ref": "MarajyVPC"
+                   },
+                  "CidrBlock": "172.30.0.0/16",
+                  "AvailabilityZone": {
+                    "Fn::Select": [
+                      0,
+                      {
+                        "Fn::GetAZs": ""
+                      }
+                     ]
+                  }
+            }
+        },
+
+         "MarajySecurityGroup" : {
+             "Type" : "AWS::EC2::SecurityGroup",
+             "Properties" : {
+                 "GroupDescription" : "SSH access",
+                 "VpcId": {
+                    "Ref": "MarajyVPC"
+                 },
+                 "SecurityGroupIngress" : [{ "IpProtocol" : "tcp", "FromPort" : "22", "ToPort" : "22", "CidrIp": "0.0.0.0/0"}]
+             }
+         }    
+    }
+}
