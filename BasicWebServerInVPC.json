@@ -108,10 +108,19 @@
                 "z": 1,
                 "parent": "8105470b-ed54-4d0e-956e-0493f2db571a",
                 "embeds": [
-                    "7a68c6c4-b7f2-469d-bc09-da0a583e0415",
-                    "31c49607-1f47-4ca5-b7a4-2ff19dc9395d"
+                    "31c49607-1f47-4ca5-b7a4-2ff19dc9395d",
+                    "7a68c6c4-b7f2-469d-bc09-da0a583e0415"
                 ],
                 "iscontainedinside": [
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
                     "8105470b-ed54-4d0e-956e-0493f2db571a",
                     "8105470b-ed54-4d0e-956e-0493f2db571a",
                     "8105470b-ed54-4d0e-956e-0493f2db571a",
@@ -151,7 +160,19 @@
                 "z": 2,
                 "parent": "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
                 "embeds": [],
+                "isassociatedwith": [
+                    "31c49607-1f47-4ca5-b7a4-2ff19dc9395d"
+                ],
                 "iscontainedinside": [
+                    "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
+                    "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
+                    "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
+                    "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
+                    "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
+                    "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
+                    "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
+                    "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
+                    "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
                     "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
                     "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
                     "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
@@ -193,6 +214,15 @@
                 "parent": "8105470b-ed54-4d0e-956e-0493f2db571a",
                 "embeds": [],
                 "iscontainedinside": [
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
                     "8105470b-ed54-4d0e-956e-0493f2db571a",
                     "8105470b-ed54-4d0e-956e-0493f2db571a",
                     "8105470b-ed54-4d0e-956e-0493f2db571a",
@@ -272,6 +302,15 @@
                     "8105470b-ed54-4d0e-956e-0493f2db571a",
                     "8105470b-ed54-4d0e-956e-0493f2db571a",
                     "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
                     "8105470b-ed54-4d0e-956e-0493f2db571a"
                 ]
             },
@@ -291,6 +330,15 @@
                     "d2f58ed4-4bb9-475a-89b2-9366e91485c3"
                 ],
                 "iscontainedinside": [
+                    "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
+                    "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
+                    "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
+                    "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
+                    "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
+                    "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
+                    "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
+                    "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
+                    "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
                     "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
                     "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
                     "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
@@ -390,6 +438,14 @@
                         }
                     ]
                 },
+                "Volumes": [
+                    {
+                        "VolumeId": {
+                            "Ref": "MarajyVolume"
+                        },
+                        "Device": "/dev/sdk"
+                    }
+                ],
                 "KeyName": {
                     "Ref": "KeyName"
                 },
@@ -603,7 +659,7 @@
                 "VolumeType": "sc1",
                 "AvailabilityZone": {
                     "Fn::GetAtt": [
-                        "WebServerInstance",
+                        "PublicSubnet",
                         "AvailabilityZone"
                     ]
                 },
