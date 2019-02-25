@@ -87,7 +87,7 @@
                 },
                 "position": {
                     "x": 370,
-                    "y": 178
+                    "y": 180
                 },
                 "z": 0,
                 "embeds": [
@@ -103,15 +103,22 @@
                 },
                 "position": {
                     "x": 460,
-                    "y": 227
+                    "y": 229
                 },
                 "z": 1,
                 "parent": "8105470b-ed54-4d0e-956e-0493f2db571a",
                 "embeds": [
-                    "31c49607-1f47-4ca5-b7a4-2ff19dc9395d",
                     "7a68c6c4-b7f2-469d-bc09-da0a583e0415"
                 ],
                 "iscontainedinside": [
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
                     "8105470b-ed54-4d0e-956e-0493f2db571a",
                     "8105470b-ed54-4d0e-956e-0493f2db571a",
                     "8105470b-ed54-4d0e-956e-0493f2db571a",
@@ -195,6 +202,14 @@
                     "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
                     "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
                     "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
+                    "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
+                    "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
+                    "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
+                    "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
+                    "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
+                    "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
+                    "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
+                    "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
                     "963ce935-f39b-4e63-a8b3-bdb189ce8c79"
                 ],
                 "dependson": [
@@ -208,12 +223,20 @@
                 },
                 "position": {
                     "x": 740,
-                    "y": 250
+                    "y": 252
                 },
                 "z": 1,
                 "parent": "8105470b-ed54-4d0e-956e-0493f2db571a",
                 "embeds": [],
                 "iscontainedinside": [
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
                     "8105470b-ed54-4d0e-956e-0493f2db571a",
                     "8105470b-ed54-4d0e-956e-0493f2db571a",
                     "8105470b-ed54-4d0e-956e-0493f2db571a",
@@ -275,7 +298,7 @@
                 },
                 "position": {
                     "x": 810,
-                    "y": 450
+                    "y": 452
                 },
                 "z": 1,
                 "parent": "8105470b-ed54-4d0e-956e-0493f2db571a",
@@ -283,6 +306,14 @@
                     "59dc1c53-931d-40d1-87b1-4bc183070d88"
                 ],
                 "iscontainedinside": [
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
+                    "8105470b-ed54-4d0e-956e-0493f2db571a",
                     "8105470b-ed54-4d0e-956e-0493f2db571a",
                     "8105470b-ed54-4d0e-956e-0493f2db571a",
                     "8105470b-ed54-4d0e-956e-0493f2db571a",
@@ -321,7 +352,7 @@
                 },
                 "position": {
                     "x": 831,
-                    "y": 489
+                    "y": 491
                 },
                 "z": 2,
                 "parent": "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
@@ -330,6 +361,14 @@
                     "d2f58ed4-4bb9-475a-89b2-9366e91485c3"
                 ],
                 "iscontainedinside": [
+                    "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
+                    "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
+                    "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
+                    "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
+                    "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
+                    "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
+                    "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
+                    "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
                     "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
                     "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
                     "1bf93a8a-af97-4576-ade5-59cc6dcabd86",
@@ -371,19 +410,6 @@
                     "id": "963ce935-f39b-4e63-a8b3-bdb189ce8c79"
                 },
                 "z": 1
-            },
-            "31c49607-1f47-4ca5-b7a4-2ff19dc9395d": {
-                "size": {
-                    "width": 60,
-                    "height": 60
-                },
-                "position": {
-                    "x": 547.1992608352969,
-                    "y": 255.890635601835
-                },
-                "z": 2,
-                "parent": "963ce935-f39b-4e63-a8b3-bdb189ce8c79",
-                "embeds": []
             }
         }
     },
@@ -438,17 +464,17 @@
                         }
                     ]
                 },
-                "Volumes": [
+                "BlockDeviceMappings": [
                     {
-                        "VolumeId": {
-                            "Ref": "MarajyVolume"
-                        },
-                        "Device": "/dev/sdk"
+                        "DeviceName": "/dev/xvda",
+                        "Ebs": {
+                            "VolumeType": "gp2",
+                            "DeleteOnTermination": "true",
+                            "VolumeSize": "30"
+                        }
                     }
                 ],
-                "KeyName": {
-                    "Ref": "KeyName"
-                },
+                "KeyName": "AWSKarimKey",
                 "NetworkInterfaces": [
                     {
                         "GroupSet": [
@@ -648,31 +674,6 @@
             "Metadata": {
                 "AWS::CloudFormation::Designer": {
                     "id": "ea7e0322-7d61-428b-9af5-49bd59f38789"
-                }
-            }
-        },
-        "MarajyVolume": {
-            "Type": "AWS::EC2::Volume",
-            "Properties": {
-                "Size": "500",
-                "Encrypted": "true",
-                "VolumeType": "sc1",
-                "AvailabilityZone": {
-                    "Fn::GetAtt": [
-                        "PublicSubnet",
-                        "AvailabilityZone"
-                    ]
-                },
-                "Tags": [
-                    {
-                        "Key": "MyTag",
-                        "Value": "TagValue"
-                    }
-                ]
-            },
-            "Metadata": {
-                "AWS::CloudFormation::Designer": {
-                    "id": "31c49607-1f47-4ca5-b7a4-2ff19dc9395d"
                 }
             }
         }
